@@ -52,7 +52,7 @@ export default function ProductShowcase() {
               style={{ transformStyle: "preserve-3d", perspective: 1000 }}
             >
               <img
-                src="/sleek-modern-smart-umbrella-floating-with-purple-a.jpg"
+                src="/sleek-modern-smart-umbrella-floating-with-purple-a.png"
                 alt="Google Stella - 360 View"
                 className="h-auto max-h-[350px] w-auto rounded-2xl object-contain drop-shadow-2xl"
               />

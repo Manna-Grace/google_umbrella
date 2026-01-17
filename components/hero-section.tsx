@@ -62,7 +62,7 @@ export default function HeroSection() {
               className="relative"
             >
               <img
-                src="/sleek-modern-smart-umbrella-floating-with-purple-a.jpg"
+                src="/sleek-modern-smart-umbrella-floating-with-purple-a.png"
                 alt="Google Stella - AI-Powered Smart Umbrella"
                 className="mx-auto drop-shadow-2xl stella-glow rounded-3xl"
                 width={600}
